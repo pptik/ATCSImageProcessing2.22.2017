@@ -1,0 +1,6 @@
+G:\DEV\ATCSUblScreenshotCapture\ATCSUblScreenshotCapture\bin\Debug\ATCSUblScreenshotCapture.exe.config
+G:\DEV\ATCSUblScreenshotCapture\ATCSUblScreenshotCapture\bin\Debug\ATCSUblScreenshotCapture.exe
+G:\DEV\ATCSUblScreenshotCapture\ATCSUblScreenshotCapture\bin\Debug\ATCSUblScreenshotCapture.pdb
+G:\DEV\ATCSUblScreenshotCapture\ATCSUblScreenshotCapture\obj\Debug\ATCSUblScreenshotCapture.csprojResolveAssemblyReference.cache
+G:\DEV\ATCSUblScreenshotCapture\ATCSUblScreenshotCapture\obj\Debug\ATCSUblScreenshotCapture.exe
+G:\DEV\ATCSUblScreenshotCapture\ATCSUblScreenshotCapture\obj\Debug\ATCSUblScreenshotCapture.pdb
